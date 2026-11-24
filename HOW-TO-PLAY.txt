@@ -1,0 +1,18 @@
+MASIMOUS II - demo v0.1.0 (Windows 10/11, 64-bit)
+
+START: double-click MasimousII.exe. Keep the folder "data_MasimousII_windows_x86_64" next to it.
+If Windows SmartScreen warns ("unknown publisher"): click "More info", then "Run anyway".
+
+               Keyboard        Xbox controller
+Move           A / D           Left stick / D-pad
+Jump           Space           A
+Attack         J               X
+Dodge          L / Shift       B
+Parry          I               Y
+Heal (flask)   H               LB
+Skills         Q / E / R       RB / RT / LT
+Talk / rest    W               Up
+Backpack       Tab / B         View
+Pause / menu   Esc             Menu
+
+Rest at a shrine to save. Settings (window size, fullscreen, volume, brightness, vibration, keys) are in the menu.

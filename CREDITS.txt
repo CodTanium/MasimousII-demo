@@ -1,0 +1,29 @@
+MASIMOUS II - demo v0.1.0
+Game design and code: CodTanium. All rights reserved for the game code.
+
+Third-party art, sound and fonts (thank you!):
+
+Gothicvania (Patreon collection, Church, Town) - ansimuz - CC0
+  https://opengameart.org/content/gothicvania-patreons-collection
+Space Merc Redux: Giant Jungle - Emcee Flesher (+ VA) - CC-BY 4.0
+  https://opengameart.org/content/space-merc-redux-giant-jungle-environment
+The Black Thief (bandit, archer) - overcrafted - OGA-BY 3.0
+  https://opengameart.org/content/the-black-thief-free-sprites
+Dragon - Fully Animated - Cethiel - CC0 (reduced to pixel art for this game)
+  https://opengameart.org/content/dragon-fully-animated
+Fantasy Icon Pack - Ravenmore (ravenmore.com) - CC-BY 3.0
+  https://opengameart.org/content/fantasy-icon-pack-by-ravenmore-0
+Painterly Spell Icons part 3 - J. W. Bjerk (eleazzaar) - CC-BY 3.0
+  https://opengameart.org/content/painterly-spell-icons-part-3
+OSARE weapon icons - Blarumyrran - CC0
+  https://opengameart.org/content/osare-weapon-icons
+Impact Sounds, RPG Audio, Interface Sounds - Kenney - CC0 (kenney.nl)
+Music - generated locally with ACE-Step 1.5 for this game
+Fonts - UnifrakturMaguntia, Pirata One, Grenze Gotisch, Pixelify Sans, Silkscreen, Jacquard 24 - SIL Open Font License 1.1
+  (licence texts in the "licenses" folder)
+
+Licences: CC0 https://creativecommons.org/publicdomain/zero/1.0/
+          CC-BY 3.0 https://creativecommons.org/licenses/by/3.0/  CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
+          OGA-BY 3.0 https://opengameart.org/content/oga-by-30-faq
+Some sprites were cropped, recoloured or scaled down for this game.
+Engine: Godot 4.7 (MIT) - https://godotengine.org/license
